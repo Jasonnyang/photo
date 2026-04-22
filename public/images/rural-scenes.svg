@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Rural Scenes Placeholder</title>
+  <desc id="desc">Road and distant farm scene.</desc>
+  <rect width="1600" height="1000" fill="#7a8f99"/>
+  <rect y="530" width="1600" height="470" fill="#5f7c61"/>
+  <polygon points="760,1000 850,1000 980,530 650,530" fill="#b8b0a2"/>
+  <rect x="1120" y="500" width="120" height="90" fill="#75675a"/>
+  <polygon points="1105,500 1255,500 1180,450" fill="#64584c"/>
+</svg>

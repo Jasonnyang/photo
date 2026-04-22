@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Blooms Placeholder</title>
+  <desc id="desc">Colorful flower field abstraction.</desc>
+  <rect width="1600" height="1000" fill="#8ca397"/>
+  <rect y="420" width="1600" height="580" fill="#5f785f"/>
+  <circle cx="350" cy="720" r="76" fill="#d97288"/>
+  <circle cx="520" cy="740" r="66" fill="#e2b55d"/>
+  <circle cx="690" cy="695" r="72" fill="#d9785a"/>
+  <circle cx="860" cy="752" r="68" fill="#9c7ad4"/>
+  <circle cx="1030" cy="710" r="74" fill="#d55e75"/>
+  <circle cx="1200" cy="738" r="60" fill="#efc965"/>
+</svg>

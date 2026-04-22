@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Water Placeholder</title>
+  <desc id="desc">Calm lake with reflected sky.</desc>
+  <rect width="1600" height="1000" fill="#7fa0ad"/>
+  <rect y="0" width="1600" height="520" fill="#94b9c4"/>
+  <rect y="520" width="1600" height="480" fill="#577f89"/>
+  <path d="M0 620 C120 590 260 650 420 620 C600 585 760 650 980 620 C1150 595 1360 650 1600 610 V650 H0 Z" fill="#78a6b1"/>
+  <path d="M0 710 C140 675 300 745 470 720 C650 695 840 760 1060 730 C1240 706 1410 760 1600 728 V760 H0 Z" fill="#6a9aa6"/>
+</svg>

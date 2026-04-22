@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Trails and Roads Placeholder</title>
+  <desc id="desc">A winding road in open landscape.</desc>
+  <rect width="1600" height="1000" fill="#87a3b0"/>
+  <rect y="580" width="1600" height="420" fill="#5f805e"/>
+  <path d="M690 1000 L930 1000 L860 580 L760 580 Z" fill="#b4aba0"/>
+  <path d="M796 980 L824 980 L809 610 L802 610 Z" fill="#f0dfac"/>
+</svg>

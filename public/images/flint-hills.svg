@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Flint Hills Placeholder</title>
+  <desc id="desc">Stylized prairie hills at sunset.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f4bd84"/>
+      <stop offset="58%" stop-color="#93a597"/>
+      <stop offset="100%" stop-color="#435a4e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#sky)"/>
+  <ellipse cx="420" cy="700" rx="560" ry="180" fill="#60796b"/>
+  <ellipse cx="1110" cy="760" rx="700" ry="210" fill="#4e6659"/>
+  <ellipse cx="900" cy="860" rx="850" ry="230" fill="#395244"/>
+</svg>
